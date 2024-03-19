@@ -1,1 +1,1 @@
-# titanic-EDA-Mechine-learning-project
+# Titanic-EDA-Mechine-learning-project
